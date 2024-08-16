@@ -19,7 +19,7 @@ Clone o Repositório
 
 bash
 Copiar código
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/pardim06/Resgate-um-pet.git
 Navegue até o Diretório do Projeto
 
 bash
