@@ -3,6 +3,10 @@ Site de Resgate de Animais
 Descrição
 Este projeto é um site desenvolvido para auxiliar na localização de agências de apoio a animais de rua. O objetivo é ajudar os usuários a encontrarem a agência mais próxima de sua localização. O site foi criado como parte de um curso técnico de Análise e Desenvolvimento de Sistemas por um grupo de 5 pessoas.
 
+![capa portifolio](https://github.com/user-attachments/assets/f97cc120-d298-4091-b566-9886bd0de589)
+
+
+
 Tecnologias Utilizadas
 
 HTML: Estruturação das páginas e conteúdo.
